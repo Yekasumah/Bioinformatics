@@ -2,19 +2,6 @@ Malaria Detection Using CNN and Transfer Learning
 
 This project focuses on detecting malaria from cell images using deep learning techniques. We used Convolutional Neural Networks (CNN) combined with Transfer Learning to train a model that classifies images of blood cells as either infected or uninfected with malaria.
 
-Table of Contents
-
-Introduction
-Project Workflow
-Dataset
-Model Architecture
-Training and Evaluation
-Results
-Potential Applications in Lagos, Nigeria
-How to Run the Project
-Future Improvements
-Conclusion
-Introduction
 
 Malaria is a serious disease caused by parasites transmitted through mosquito bites. Detecting malaria early is important for effective treatment. This project aims to automatically detect malaria in blood cell images using a trained machine learning model.
 
