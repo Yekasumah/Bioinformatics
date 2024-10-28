@@ -48,7 +48,7 @@ How to Run the Project
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/malaria-detection-cnn.git
+git clone https://github.com/yekasumah/malaria-detection.git
 Install required libraries:
 bash
 Copy code
@@ -62,11 +62,5 @@ Test the model:
 bash
 Copy code
 python evaluate.py
-Future Improvements
 
-More Data: Add more training data, specifically from regions like Lagos, Nigeria, to improve the model's accuracy in different environments.
-Better Augmentation: Use more advanced data augmentation techniques to generalize the model better across various image conditions.
-Deployment: Deploy the model in an application to assist healthcare workers in detecting malaria in real-time.
-Conclusion
 
-This project demonstrates the power of CNNs and Transfer Learning in detecting malaria from cell images. The model performs well and could be a useful tool in diagnosing malaria, particularly in regions like Lagos, Nigeria, where the disease is highly prevalent.
