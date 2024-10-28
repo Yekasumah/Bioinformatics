@@ -47,20 +47,20 @@ How to Run the Project
 
 Clone the repository:
 bash
-Copy code
+
 git clone https://github.com/yekasumah/malaria-detection.git
 Install required libraries:
 bash
-Copy code
+
 pip install -r requirements.txt
 Download the dataset from Kaggle and place it in the data folder.
 Run the training script:
 bash
-Copy code
+
 python train.py
 Test the model:
 bash
-Copy code
+
 python evaluate.py
 
 
